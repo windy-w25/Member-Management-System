@@ -1,0 +1,57 @@
+.btn-primary {
+    border: 1px solid #2980b9 !important;
+    background-color: #2980b9 !important;
+}
+
+.btn-danger  {
+    border: 1px solid #a62c2c !important;
+    background-color: #a62c2c !important;
+}
+
+.btn-warning {
+    background-color: #F6E9BB !important;
+    border: 1px solid #F6E9BB !important;
+    font-size: 12px!important;
+}
+.btn-success {
+    background-color: #296f00 !important;
+    border: 1px solid #296f00 !important;
+    font-size: 12px!important;
+}
+
+.page-item.active .page-link{
+    background-color: #2980b9 !important;
+    border-color: #2980b9 !important;
+}
+
+.page-link {
+    color: #2980b9 !important;
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #FFFFFF !important;
+}
+
+.card-header{
+    text-align: center!important;
+}
+
+.add_member{
+    margin-bottom: 50px!important;
+}
+
+.back{
+    color: #73cccc;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.back:hover {
+    color: #73cccc;
+}
+
+.bg-dark{
+    background-color: #00c0ef !important;
+    border-left: 1px solid #00c0ef !important;
+    border-bottom: 0 !important;
+}
