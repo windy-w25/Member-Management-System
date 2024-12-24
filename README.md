@@ -1,4 +1,4 @@
-# University Project Management System
+# Member Management System
 
 ## Developed By
 *Windya Wijesinghe*
